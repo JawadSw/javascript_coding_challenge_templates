@@ -1,6 +1,6 @@
 # Coding Challenge Template for ISM3232
 
-Here is a coding challenge template for the coding challenges related to ISM3232.
+ is a coding challenge template for the coding challenges related to ISM3232.
 
 Please remember to update the **script file name** for each coding challenge so that it matches the specific challenge number.
 
